@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Backend Developement
 - - 💞️ I’m looking to collaborate on Frontend Developement
 - 📫 How to reach me trptshlk@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Interest in japanese culture <i>IKIGAI</i> so learning japanese.</br> I love Dancing and listening music
 
 <!---
 TruptiShelke01/TruptiShelke01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
