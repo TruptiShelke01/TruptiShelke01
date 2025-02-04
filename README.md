@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TruptiShelke01
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Backend Developement
+- 🌱 I’m currently learning Data analytics
 - - 💞️ I’m looking to collaborate on Frontend Developement
 - 📫 How to reach me trptshlk@gmail.com
 - 😄 Pronouns: She/Her
